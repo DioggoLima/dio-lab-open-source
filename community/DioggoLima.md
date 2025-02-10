@@ -1,6 +1,6 @@
 # Olá, eu sou Diogo Lima (DioggoLima)
 
-    Sou um profissional da área grafica e atualmente estou tentando uma transição de carreira. Sou formado em Automação Industrial e atualmente estou cursando Analise e Desenvolvimento de Sistemas, iniciando o 4° semestre. 
+#### Sou um profissional da área grafica e atualmente estou tentando uma transição de carreira. Sou formado em Automação Industrial e atualmente estou cursando Analise e Desenvolvimento de Sistemas, iniciando o 4° semestre. 
 
 ## Conecte-se comigo.
 
